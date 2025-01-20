@@ -1,5 +1,7 @@
 # simple-blog-django
 Simple Blog Django
+
+Clone project.
 ```bash
 git clone https://github.com/silvajunior/simple-blog-django.git
 cd simple-blog-django
